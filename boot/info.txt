@@ -1,0 +1,14 @@
+base address: 0x40078000
+board name: 
+cmdline: bootopt=64S3,32N2,64N2 buildvariant=user
+dtb offset: 0x07808000
+header version: 2
+image type: AOSP
+kernel offset: 0x00008000
+original size: 33554432
+os version: 12.0.0
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x11a88000
+sigtype: AVBv2
+tags offset: 0x07808000
